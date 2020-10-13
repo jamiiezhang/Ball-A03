@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{61211EE8-2415-A772-1D7D-6B241E377E2F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OtherSphere.cs">
+    <Files>
+      <File FileName="Assets/CollosionTest.cs" Line="88" Column="109" />
+      <File FileName="Assets/AccelerationTest.cs" />
+      <File FileName="Assets/EulerGizmo.cs" />
+      <File FileName="Assets/EulerQuaterionInterpolation.cs" />
+      <File FileName="Assets/ForceTest.cs" />
+      <File FileName="Assets/OtherSphere.cs" Line="34" Column="15" />
+      <File FileName="Assets/PlanarReflectionMatrixSettingScript.cs" />
+      <File FileName="Assets/QuaterionGizmo.cs" />
+      <File FileName="Assets/RaycastTest.cs" />
+      <File FileName="Assets/ShowSphereBounds.cs" />
+      <File FileName="Assets/VelocityTest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IMDT" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="OtherSphere.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="61e35cb9-b8ee-445d-beab-ed8f4fa01b64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
